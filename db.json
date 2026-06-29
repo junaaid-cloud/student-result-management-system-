@@ -1,0 +1,38 @@
+{
+  "students": [
+    {
+      "id": "1",
+      "name": "John Doe",
+      "rollNo": "CS101",
+      "department": "Computer Science"
+    },
+    {
+      "id": "2",
+      "name": "Jane Smith",
+      "rollNo": "EE102",
+      "department": "Electrical Engineering"
+    },
+    {
+      "id": "1782112852810",
+      "name": "Ali",
+      "rollNo": "25",
+      "department": "bse"
+    }
+  ],
+  "marks": {
+    "1": {
+      "math": 85,
+      "science": 92,
+      "english": 78,
+      "history": 88,
+      "computer": 95
+    },
+    "2": {
+      "math": 72,
+      "science": 65,
+      "english": 80,
+      "history": 70,
+      "computer": 75
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Student Result Management System",
+  "description": "A comprehensive system for schools to manage student data, record exam marks, and calculate GPAs automatically with an admin dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
